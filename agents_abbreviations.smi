@@ -1,13 +1,13 @@
-10-phenanthroline
-6-lutidine
-Ac2O
-acetone
-ACN
-AcOH
-Ag2CO3
-Ag2O
-AgNO3
-AgOAc
+10-phenanthroline   C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1
+2,6-lutidine    CC1=NC(=CC=C1)C
+Ac2O    CC(=O)OC(=O)C
+acetone CC(=O)C
+ACN CC#N
+AcOH    CC(=O)O
+Ag2CO3  C(=O)([O-])[O-].[Ag+].[Ag+]
+Ag2O    [O-2].[Ag+].[Ag+]
+AgNO3   [N+](=O)([O-])[O-].[Ag+]
+AgOAc   CC(=O)[O-].[Ag+] 
 AgOTf
 AgSbF6
 AIBN
@@ -17,13 +17,13 @@ AuCl
 AuCl3
 B2pin2
 benzene
-* BF4(-)
+BF4-
 BnBr
 Boc2O
 bpy
-* Br(-)
+Br-
 Br2
-* bromide(-)
+bromide-
 Bu3SnH
 BuLi
 C6H6
@@ -41,7 +41,7 @@ CH3I
 CH3NO2
 CH3OH
 CHCl3
-* Cl(-)
+Cl-
 Cl2
 Co
 CO
@@ -164,24 +164,24 @@ NBS
 n-BuLi
 NEt3
 NH3
-* NH4(+)
+NH4+
 NH4Cl
 NH4OAc
 NIS
 NMM
 NMO
 NMP
-* NO2(-)
-* NO3(-)
+NO2-
+NO3-
 O2
 OAc
 OEt
 OiPr
-* OTf(-)
+OTf-
 PCy3
 Pd
 PdCl2
-* PF6(-)
+PF6-
 Ph3P
 PhCHO
 PhCl
