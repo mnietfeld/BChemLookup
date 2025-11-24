@@ -81,41 +81,41 @@ dppf    [CH-]1C=CC(=C1)P(C2=CC=CC=C2)C3=CC=CC=C3.[CH-]1C=CC(=C1)P(C2=CC=CC=C2)C3
 DTBP    CC(C)(C)OOC(C)(C)C
 EDC CCN=C=NCCCN(C)C
 Eosin   C1=CC=C(C(=C1)C2=C3C=C(C(=O)C(=C3OC4=C(C(=C(C=C24)Br)[O-])Br)Br)Br)C(=O)[O-].[Na+].[Na+]
-Et2O
-Et2Zn
-Et3N
-Et3SiH
-ethanol
-ethylene
-EtOAc
-EtOH
-Fe
-FeCl3
-FSiEt3
-H+
-H2
-H2O
-H2O2
-H2SO4
-H3O+
-HBF4
-HBr
-HCl
-HCO2H
-hexane
-HF
-HFIP
-Hg
-HMPA
-HNO3
-HOAc
-HOBt
-HSiEt3
-IBX
-imidazole
-iPr2NEt
-iPrOH
-Ir
+Et2O    CCOCC
+Et2Zn   CC[Zn]CC
+Et3N    CCN(CC)CC
+Et3SiH  CC[SiH](CC)CC
+ethanol OCC
+ethylene    C=C
+EtOAc   O=C(OCC)C
+EtOH   OCC 
+Fe  [Fe]
+FeCl3   Cl[Fe](Cl)Cl
+# not found: FSiEt3
+H+ [H+]
+H2 [HH]
+H2O O
+H2O2 OO
+H2SO4   OS(=O)(=O)O
+H3O+    [OH3+]
+HBF4    [H+].[B-](F)(F)(F)F
+HBr Br
+HCl Cl
+HCO2H   C(=O)O
+hexane  CCCCCC
+HF  F
+HFIP  C(C(F)(F)F)(C(F)(F)F)O  
+Hg [Hg]
+HMPA    O=P(N(C)C)(N(C)C)N(C)C
+HNO3    [N+](=O)(O)[O-]
+HOAc    CC(O)=O
+HOBt    C1=CC=C2C(=C1)N=NN2O
+HSiEt3  CC[SiH](CC)CC
+IBX C1=CC=C2C(=C1)C(=O)OI2(=O)O 
+imidazole   c1cnc[nH]1
+iPr2NEt CCN(C(C)C)C(C)C
+iPrOH   CC(O)C
+Ir [Ir]
 K2CO3
 K2HPO4
 K2S2O8
