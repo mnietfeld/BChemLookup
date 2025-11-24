@@ -8,27 +8,27 @@ Ag2CO3  C(=O)([O-])[O-].[Ag+].[Ag+]
 Ag2O    [O-2].[Ag+].[Ag+]
 AgNO3   [N+](=O)([O-])[O-].[Ag+]
 AgOAc   CC(=O)[O-].[Ag+] 
-AgOTf
-AgSbF6
-AIBN
-AlCl3
-Au
-AuCl
-AuCl3
-B2pin2
-benzene
-BF4-
-BnBr
-Boc2O
-bpy
-Br-
-Br2
-bromide-
-Bu3SnH
-BuLi
-C6H6
-CAN
-CBr4
+AgOTf   C(F)(F)(F)S(=O)(=O)[O-].[Ag+]
+AgSbF6  F[Sb-](F)(F)(F)(F)F.[Ag+]
+AIBN    CC(C)(C#N)/N=N/C(C)(C)C#N
+AlCl3   [Al](Cl)(Cl)Cl
+Au  [Au]
+AuCl    Cl[Au]
+AuCl3   Cl[Au](Cl)Cl
+B2pin2  B1(OC(C(O1)(C)C)(C)C)B2OC(C(O2)(C)C)(C)C
+benzene C1=CC=CC=C1
+BF4-    [B-](F)(F)(F)F
+BnBr    C1=CC=C(C=C1)CBr
+Boc2O   CC(C)(C)OC(=O)OC(=O)OC(C)(C)C
+bpy C1=CC=NC(=C1)C2=CC=CC=N2
+Br- [Br-]
+Br2 BrBr
+bromide- [Br-]
+Bu3SnH  CCCC[SnH](CCCC)CCCC
+BuLi    [Li].CCC[CH2]
+C6H6    C1=CC=CC=C1
+CAN [NH4+].[NH4+].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Ce+4]
+CBr4    C(Br)(Br)(Br)Br
 CCl4
 CDCl3
 CF3SO2Cl
