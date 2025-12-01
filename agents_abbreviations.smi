@@ -192,42 +192,42 @@ PivOH   CC(C)(C)C(=O)O
 POCl3   O=P(Cl)(Cl)Cl
 PPh3    C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3
 # not found: ppy
-Pt
-PTSA
-p-TsOH
-Py
-pyridine
-Rh
-Ru
-SbF6
-s-BuLi
-SiO2
-SmI2
-SO2
-SOCl2
-sodium
-TBAB
-TBAF
-TBAI
-TBHP
-t-BuLi
-t-BuOH
-t-BuOK
-t-BuOOH
-TEMPO
-Tf2O
-TFA
-TFE
-TfOH
-THF
-TiCl4
-TMEDA
-TMSCl
-TMSOTf
-toluene
-TsCl
-TsOH
-water
-xylene
-Zn
-ZnCl2
+Pt [Pt]
+PTSA    Cc1ccc(cc1)S(=O)(=O)O
+p-TsOH  Cc1ccc(cc1)S(=O)(=O)O
+Py  c1ccncc1
+pyridine    c1ccncc1
+Rh [Rh]
+Ru [Ru]
+SbF6    [FH2+].F[Sb-](F)(F)(F)(F)F
+s-BuLi  [Li+].CC[CH-]C
+SiO2    O=[Si]=O
+SmI2    I[Sm]I
+SO2 O=S=O
+SOCl2   O=S(Cl)Cl
+sodium [Na]
+TBAB    [Br-].CCCC[N+](CCCC)(CCCC)CCCC
+TBAF    [F-].CCCC[N+](CCCC)(CCCC)CCCC
+TBAI    [I-].CCCC[N+](CCCC)(CCCC)CCCC
+TBHP    CC(C)(C)OO
+t-BuLi  [Li]C(C)(C)C
+t-BuOH  CC(C)(C)O
+t-BuOK  [K+].[O-]C(C)(C)C
+t-BuOOH CC(C)(C)OO
+TEMPO   CC1(CCCC(N1[O])(C)C)C
+Tf2O    C(F)(F)(F)S(=O)(=O)OS(=O)(=O)C(F)(F)F
+TFA FC(F)(F)C(=O)O
+TFE OCC(F)(F)F
+TfOH    C(F)(F)(F)S(=O)(=O)O
+THF C1CCOC1
+TiCl4   Cl[Ti](Cl)(Cl)Cl
+TMEDA   CN(C)CCN(C)C
+TMSCl   C[Si](C)(C)Cl
+TMSOTf  C[Si](C)(C)OS(=O)(=O)C(F)(F)F
+toluene Cc1ccccc1
+TsCl    O=S(Cl)(=O)c1ccc(cc1)C
+TsOH    Cc1ccc(cc1)S(=O)(=O)O
+water   O
+# ambiguos: xylene
+Zn  [Zn]
+ZnCl2   Cl[Zn]Cl
