@@ -116,82 +116,82 @@ imidazole   c1cnc[nH]1
 iPr2NEt CCN(C(C)C)C(C)C
 iPrOH   CC(O)C
 Ir [Ir]
-K2CO3
-K2HPO4
-K2S2O8
-K3PO4
-KF
-KHMDS
-KOAc
-KOH
-KOt-Bu
-LDA
-Li
-LiAlH4
-LiCl
-LiClO4
-LiHMDS
-LiOH
-LiOt-Bu
-m-CPBA
-mCPBA
-MeCN
-MeI
-MeNO2
-MeO
-MeOH
-Mg
-Mn
-MnO2
-MsCl
-MTBE
-N2
-Na
-Na2CO3
-NaBH4
-NaCl
-NaH
-NaHCO3
-NaI
-NaIO4
-NaN3
-NaNO2
-NaOAc
-NaOH
-NaOMe
-NBS
-n-BuLi
-NEt3
-NH3
-NH4+
-NH4Cl
-NH4OAc
-NIS
-NMM
-NMO
-NMP
-NO2-
-NO3-
-O2
-OAc
-OEt
-OiPr
-OTf-
-PCy3
-Pd
-PdCl2
-PF6-
-Ph3P
-PhCHO
-PhCl
-PhI
-PhMe
-phosphate
-piperidine
-PivOH
-POCl3
-PPh3
-ppy
+K2CO3   C(=O)([O-])[O-].[K+].[K+]
+K2HPO4  [K+].[K+].[O-]P([O-])(=O)O
+K2S2O8  [O-]S(=O)(=O)OOS(=O)(=O)[O-].[K+].[K+]
+K3PO4   [K+].[K+].[K+].[O-]P([O-])([O-])=O
+KF  [F-].[K+]
+KHMDS   C[Si](C)(C)N([K])[Si](C)(C)C
+KOAc    CC(=O)[O-].[K+]
+KOH [K+].[OH-]
+KOt-Bu  [K+].[O-]C(C)(C)C
+LDA [Li+].CC(C)[N-]C(C)C
+Li  [Li]
+LiAlH4  [Li+].[AlH4-]
+LiCl    [Li+].[Cl-]
+LiClO4  [Li+].[O-]Cl(=O)(=O)=O
+LiHMDS  [Li+].C[Si](C)(C)[N-][Si](C)(C)C
+LiOH    [Li+].[OH-]
+LiOt-Bu [Li+].CC(C)(C)[O-]
+m-CPBA  C1=CC(=CC(=C1)Cl)C(=O)OO
+mCPBA   C1=CC(=CC(=C1)Cl)C(=O)OO
+MeCN    CC#N
+MeI CI
+MeNO2   C[N+](=O)[O-]
+# functional group: MeO
+MeOH    CO
+Mg  [Mg]
+Mn  [Mn]
+MnO2    O=[Mn]=O
+MsCl    CS(=O)(=O)Cl
+MTBE    CC(C)(C)OC
+N2  N#N
+Na  [Na]
+Na2CO3  C(=O)([O-])[O-].[Na+].[Na+]
+NaBH4   [BH4-].[Na+]
+NaCl    [Na+].[Cl-]
+NaH [2H-].[Na+]
+NaHCO3  C(=O)(O)[O-].[Na+]
+NaI [Na+].[I-]
+NaIO4   [O-]I(=O)(=O)=O.[Na+]
+NaN3    [N-]=[N+]=[N-].[Na+]
+NaNO2   N(=O)[O-].[Na+]
+NaOAc   [Na+].[O-]C(=O)C
+NaOH    [OH-].[Na+]
+NaOMe   C[O-].[Na+]
+NBS BrN1C(=O)CCC1=O
+n-BuLi  [Li].CCC[CH2]
+NEt3    CCN(CC)CC
+NH3 N
+NH4+    [NH4+]
+NH4Cl   [NH4+].[Cl-]
+NH4OAc  O=C([O-])C.[N+H4]
+NIS C1CC(=O)N(C1=O)I
+NMM CN1CCOCC1
+NMO C[N+]1(CCOCC1)[O-]
+NMP CN1CCCC1=O
+NO2-    N(=O)[O-]
+NO3-    [N+](=O)([O-])[O-]
+O2  O=O
+# functional group: OAc
+# functional group: OEt
+# functional group: OiPr
+# functional group: OTf-
+PCy3    C1CCC(CC1)P(C2CCCCC2)C3CCCCC3
+Pd  [Pd]
+PdCl2   Cl[Pd]Cl
+PF6-    F[P-](F)(F)(F)(F)F
+Ph3P    C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3
+PhCHO   C1=CC=C(C=C1)C=O
+PhCl    C1=CC=C(C=C1)Cl
+PhI C1=CC=C(C=C1)I
+PhMe    CC1=CC=CC=C1
+phosphate   [O-]P(=O)([O-])[O-]
+piperidine  C1CCNCC1
+PivOH   CC(C)(C)C(=O)O
+POCl3   O=P(Cl)(Cl)Cl
+PPh3    C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3
+# not found: ppy
 Pt
 PTSA
 p-TsOH
